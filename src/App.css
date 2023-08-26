@@ -18,7 +18,7 @@ background-position: 0 0,8px 8px;
 /* Tailwind Styles */
 
 .app {
-  @apply relative flex justify-evenly flex-wrap items-start;
+  @apply relative flex justify-evenly flex-wrap items-center flex-col;
 }
 
 .black_btn {
